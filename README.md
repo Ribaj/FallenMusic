@@ -28,7 +28,7 @@
 
 ### 🎖 History
 
-[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/AnonymousBoy1025/FallenMusic)
+[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/Ribaj/FallenMusic)
 
 ## Features 🔮
 
